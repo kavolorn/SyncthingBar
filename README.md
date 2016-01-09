@@ -8,7 +8,7 @@ SyncthingBar menu allows you to stop and to start Syncthing and Syncthing-inotif
 
 <img alt="SyncthingBar menu" src="screenshots/menu.png" width="250"/>
 
-## Requiremenst
+## Requirements
 
 Homebrew installations of Syncthing and Syncthing-inotify.
 
