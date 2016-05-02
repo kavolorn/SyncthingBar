@@ -1,5 +1,7 @@
 # SyncthingBar
 
+[![Build Status](https://travis-ci.org/kavolorn/SyncthingBar.svg?branch=travis-ci)](https://travis-ci.org/kavolorn/SyncthingBar)
+
 Tiny OS X GUI wrapper for Homebrew installations of Syncthing and Syncthing-inotify.
 
 ## Screenshots
